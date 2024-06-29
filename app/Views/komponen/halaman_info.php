@@ -1,0 +1,1 @@
+By WORLD GOVERTMENT <?php echo $parameter['admiral'] ?> And <?php echo $parameter['wrld'] ?>
